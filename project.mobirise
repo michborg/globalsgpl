@@ -106,7 +106,7 @@
               "title": ""
             }
           },
-          "icons": "<a data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"icon-twitter\"></i></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"icon-facebook\"></i></a> <a data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"icon-googleplus\"></i></a> <a data-app-btn=\"true\" title=\"Youtube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"icon-dribbble\"></i></a> ",
+          "icons": "  <a data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"icon-googleplus\"></i></a> <a data-app-btn=\"true\" title=\"Youtube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"icon-dribbble\"></i></a> ",
           "contacts": "<a data-app-btn=\"true\" href=\"tel:+123 (456) 7890 123\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span> +48 690 27 27 27</a><a data-app-btn=\"true\" href=\"mailto:sample@sample.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span>biuro@global-sg.pl</a>",
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "_tags": [
@@ -124,25 +124,28 @@
             "bgColor": "#FFFFFF",
             "images": [
               {
-                "tags": "Awesome",
+                "tags": "Dolomit, Kruszec, Piasek, itp",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "image": "@PROJECT_PATH@/assets/images/bike.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bike-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1a-1200x773.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1a-1200x773-800x515.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Type title here",
-                "caption": "Type caption here",
-                "active": true
+                "title": "TRANSPORT",
+                "caption": "KRUSZYWA I materiałów sypkich",
+                "active": false,
+                "alt": ""
               },
               {
-                "tags": "Responsive",
+                "tags": "SPRZEDAŻ MATERIAŁÓW",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/code-man.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/code-man-small.jpg",
-                "title": "Type title here",
-                "caption": "Type caption here"
+                "image": "@PROJECT_PATH@/assets/images/2a-1200x773.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2a-1200x773-800x515.jpg",
+                "title": "NAJTANIEJ",
+                "caption": "NA ŚLĄSKU<br>DOLOMIT - ziemia - piasek - <br>kruszywa budowlane <br>- gruz - żwir, itp. -<div><br></div>",
+                "active": true,
+                "alt": ""
               },
               {
                 "tags": "Creative",
