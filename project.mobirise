@@ -17,13 +17,16 @@
         "textFont": "Raleway",
         "isRoundedButtons": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#ac6e1f"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.6",
     "siteFonts": [],
-    "uniqCompNum": 18,
-    "versionPublish": "4.9.6"
+    "uniqCompNum": 19,
+    "versionPublish": "4.9.6",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -117,9 +120,41 @@
         },
         {
           "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "showTitle": true,
+            "showText": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "title": "O Firmie",
+          "text": "Jako <i><b>Global Silesia Group</b></i> jesteśmy firmą transportową, która od kilku lat prężnie się rozwija na terenie Śląska. Stanowimy rozśadnie dobrany zespół ludzi, którzy od ponad 20 lat specjalizują się w branży budowlanej, developerskiej, inwestycyjnej oraz handlowej. Zastosowane przez nas rozwiązania pozwalają na uzyskanie sporych oszczędności oraz dodatkowych wygód co przekłada się na konkurecyjną cenę naszych usług oraz towarów.<br><br>Dzięki zebranemu doświadczeniu <i>jesteśmy</i> w stanie zagwarantować Państwu 100% satysfakcji ze współpracy.<br><br><b>Dlaczego warto z nami współpracować?</b><br><br>&gt;&gt; Szeroka oferta kruszywa drogowego i budowlanego, m.in : piasek (budowlany, ostry, siany, zasypowy) dolomit i inne kruszywa, ziemia, torf, zwir, granit, itp. <br>&gt;&gt; Oferujemy usługi wywozu ziemii oraz odpadów: komunalnych, wielkogabarytowych, poremontowych i pobudowlanych, sezonowych (trawa, liscie, galezie, snieg, itp) &gt;&gt; Szybka realizacja zlecen. Z uwagi na bogatą flotę samochodów ciężarowych (II-IV os) gwarantujemy terminowe wykonanie uslugi. <br><br>Do kazdego Klienta podchodzimy indywidualnie i dopasowujemy jak najbardziej korzystne warunki. Elastycznosc to głowna cecha współpracy z nami!<br><br>Zasięg działalności Global Silesia Group obejmuje m.in w następujących miejscowościach na terenie <b>Śląska oraz Zagłębia</b>: Katowice, Bytom, Będzin, Chorzów, Czeladź, Dąbrowa Górnicza, Gliwice, Jaworzno, Mikołow, Mysłowice, Ruda Śląska, Rynik, Siemianowice Śląskie, Świętochłowice, Piekary Śląskie, Skoczów, Sosnowiec, Tychy, Zabrze, itp.<br>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "text1",
+          "_anchor": "text1-i",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_params": {
             "fullWidth": false,
             "filter": false,
-            "paddingTop": "4",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgColor": "#FFFFFF",
             "images": [
