@@ -95,7 +95,7 @@
             "fontColor": "#989898",
             "fontHoverColor": "#fff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FEATURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HELP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Tutorials</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">O FIRMIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">USŁUGI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">NASI KLIENCI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">REFERENCJE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">KONTAKT</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -106,7 +106,7 @@
               "title": ""
             }
           },
-          "icons": "  <a data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"icon-googleplus\"></i></a> <a data-app-btn=\"true\" title=\"Youtube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"icon-dribbble\"></i></a> ",
+          "icons": "  <a data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Youtube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a> ",
           "contacts": "<a data-app-btn=\"true\" href=\"tel:+123 (456) 7890 123\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span> +48 690 27 27 27</a><a data-app-btn=\"true\" href=\"mailto:sample@sample.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span>biuro@global-sg.pl</a>",
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "_tags": [
