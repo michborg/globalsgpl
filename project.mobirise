@@ -25,7 +25,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.6",
     "siteFonts": [],
-    "uniqCompNum": 24,
+    "uniqCompNum": 25,
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png"
   },
@@ -204,7 +204,7 @@
             "autoplay": true,
             "timeout": 5,
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "2",
             "showArrows": true,
             "showBullets": true,
             "bgImageRadio": false,
@@ -222,7 +222,7 @@
             "visibleSlides": "6",
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/1-150x90.jpg",
@@ -234,7 +234,7 @@
                 }
               },
               {
-                "active": false,
+                "active": true,
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/2-150x90.jpg",
@@ -395,34 +395,25 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgColorRadio": true,
-            "bgColor": "#212121",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.5
+            "paddingBottom": "1"
           },
-          "title": "<span style=\"font-weight: normal;\">Zostaw dane - oddzwonimy!</span>",
+          "title": "Masz pytanie? Zostaw dane - Oddzwonimy do Ciebie!",
           "text": "Ut euismod odio metus, non volutpat elit varius eu. Sed blandit ligula id sodales hendrerit. Vivamus molestie massa",
           "form": {
             "action": "mich.borgmann@gmail.com",
             "alerts": {
-              "success": "Dziękujemy za wypełnienie formularza"
+              "success": "Thanks for filling out form!"
             },
             "fields": {
               "name": {
                 "visible": true,
                 "title": "Name",
-                "customTitle": "Imię i nazwisko*"
+                "customTitle": "Imię"
               },
               "email": {
                 "visible": true,
                 "title": "Email",
-                "customTitle": "E-mail*"
+                "customTitle": "E-mail"
               },
               "phone": {
                 "visible": true,
@@ -431,17 +422,12 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"input-send btn btn-warning\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove\">Wyślij wiadomość</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"input-send submit btn btn-danger\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove\">send message</a>",
           "_tags": [
             "Motywy"
           ],
-          "_name": "form2",
-          "_anchor": "form2-n",
-          "_styles": {
-            "SPAN": {
-              "color": "#c5960b"
-            }
-          }
+          "_name": "form1",
+          "_anchor": "form1-o"
         }
       ]
     }
