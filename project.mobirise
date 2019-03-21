@@ -25,7 +25,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.6",
     "siteFonts": [],
-    "uniqCompNum": 25,
+    "uniqCompNum": 31,
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png"
   },
@@ -394,40 +394,99 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1"
+            "googleMap": {
+              "address": "Global Silesia Group, ul. Przelotowa 15, 42-523 Dąbrowa Górnicza",
+              "placeId": "ChIJqXjvShrfFkcR4QAs1Ze1XSg",
+              "state": "ok",
+              "stateDetails": ""
+            }
           },
-          "title": "Masz pytanie? Zostaw dane - Oddzwonimy do Ciebie!",
-          "text": "Ut euismod odio metus, non volutpat elit varius eu. Sed blandit ligula id sodales hendrerit. Vivamus molestie massa",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-p"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "showTitle": true,
+            "showText": true,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75,
+            "googleMap": {
+              "placeId": "ChIJtcaxrqlZwokRfwmmibzPsTU",
+              "address": "350 5th Ave, New York, NY 10118"
+            }
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 320,
+              "src": "@THEME_PATH@/components/_images/about.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Masz pytania?",
+          "text": "W przypadku jakichkolwiek pytań zachęcamy do kontaktu poprzez poniższy formularz",
+          "title1": "<span class=\"etl-icon icon-map-pin mbr-iconfont mbr-iconfont-btn\"></span>address",
+          "title2": "<span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\"></span>e-mail",
+          "title3": "<span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>phone",
+          "text1": "319 Clematis St.  Suite 100",
+          "text2": "<a href=\"mailto:sample@sample.com\">sample@sample.com</a>",
+          "text3": "<a href=\"tel:+138 (095) 6526 538\">+138 (095) 6526 538</a>",
           "form": {
+            "title": "MESSAGE",
             "action": "mich.borgmann@gmail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Dziękujemy za wypełenienie formularza!"
             },
             "fields": {
               "name": {
                 "visible": true,
                 "title": "Name",
-                "customTitle": "Imię"
+                "customTitle": "Nazwisko*"
               },
               "email": {
                 "visible": true,
                 "title": "Email",
-                "customTitle": "E-mail"
+                "customTitle": "E-mail*"
               },
               "phone": {
                 "visible": true,
                 "title": "Phone",
                 "customTitle": "Telefon"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Treść wiadomości "
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"input-send submit btn btn-danger\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove\">send message</a>",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-warning\" type=\"submit\" role=\"button\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove\">WYŚLIJ WIADOMOŚĆ</a>",
           "_tags": [
             "Motywy"
           ],
-          "_name": "form1",
-          "_anchor": "form1-o"
+          "_name": "contacts2",
+          "_anchor": "contacts2-t"
         }
       ]
     }
