@@ -119,7 +119,7 @@
           "_params": {
             "fullWidth": false,
             "filter": true,
-            "paddingTop": "2",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgColor": "#FFFFFF",
             "images": [
@@ -144,28 +144,32 @@
                 "thumb": "@PROJECT_PATH@/assets/images/2a-1200x773-800x515.jpg",
                 "title": "KRUSZYWA<br>BUDOWLANE",
                 "caption": "<br><div>DOLOMIT - PIASEK - ZIEMIA - GRUZ ITP.</div>",
-                "active": true,
+                "active": false,
                 "alt": ""
               },
               {
-                "tags": "Creative",
+                "tags": "USŁUGI POBUDOWLANE",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/coworkers.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coworkers-small.jpg",
-                "title": "Type title here",
-                "caption": "Type caption here"
+                "image": "@PROJECT_PATH@/assets/images/3a-1200x773.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3a-1200x773-800x515.jpg",
+                "title": "WYWÓZ",
+                "caption": "GRUZU, KAMIENIA, ITP.",
+                "active": false,
+                "alt": ""
               },
               {
-                "tags": "Animated",
+                "tags": "WYWÓZ ŚMIECI",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/desktop.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/desktop-small.jpg",
-                "title": "Type title here",
-                "caption": "Type caption here"
+                "image": "@PROJECT_PATH@/assets/images/6a-1-1200x773.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6a-1-1200x773-800x515.jpg",
+                "title": "KARTA ODPADU",
+                "caption": "NAJTANIEJ NA ŚLĄSKU!",
+                "active": true,
+                "alt": ""
               },
               {
                 "tags": "Awesome",
