@@ -83,13 +83,13 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": false,
             "autoplay": true,
-            "timeout": 5,
+            "timeout": "3",
             "paddingTop": "0",
             "paddingBottom": "2",
-            "showArrows": true,
+            "showArrows": false,
             "showBullets": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/slider/main_slide_image_1.jpg",
@@ -179,10 +179,10 @@
               }
             ]
           },
-          "title": "&nbsp;Nasi Klienci - z naszych usług skorzystali m.in:&nbsp;<span style=\"font-weight: normal;\"></span>",
-          "subtitle": "",
-          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left.svg",
-          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right.svg",
+          "title": "&nbsp;Nasi Klienci&nbsp;<span style=\"font-weight: normal;\"></span>",
+          "subtitle": "Sprawdź jacy Kontrahenci nam zaufali i skorzystali z naszych usług.",
+          "arrowLeft": "@THEME_PATH@/components/_images/slider/arrow-left.svg",
+          "arrowRight": "@THEME_PATH@/components/_images/slider/arrow-right.svg",
           "_tags": [
             "Motywy"
           ],
@@ -190,10 +190,14 @@
           "_anchor": "slider5-h",
           "_styles": {
             "H3": {
-              "text-align": "left",
+              "text-align": "center",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "color": "#c5960b"
+            },
+            "P": {
+              "color": "#000000",
+              "text-align": "center"
             }
           }
         },

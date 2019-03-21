@@ -500,9 +500,13 @@ a:hover,
   color: #000000;
 }
 #slider5-h H3 {
-  text-align: left;
+  text-align: center;
   font-family: 'Montserrat', sans-serif;
   color: #c5960b;
+}
+#slider5-h P {
+  color: #000000;
+  text-align: center;
 }
 #menu2-1 .hide-buttons .nav-btn {
   display: none !important;
