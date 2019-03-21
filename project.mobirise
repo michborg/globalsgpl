@@ -143,7 +143,7 @@
                 "image": "@PROJECT_PATH@/assets/images/2a-1200x773.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2a-1200x773-800x515.jpg",
                 "title": "KRUSZYWA<br>BUDOWLANE",
-                "caption": "<br><div>DOLOMIT - PIASEK - ZIEMIA - GRUZ ITP.</div>",
+                "caption": "<div>DOLOMIT - PIASEK - ZIEMIA - GRUZ ITP.</div>",
                 "active": false,
                 "alt": ""
               },
@@ -168,18 +168,20 @@
                 "thumb": "@PROJECT_PATH@/assets/images/6a-1-1200x773-800x515.jpg",
                 "title": "KARTA ODPADU",
                 "caption": "NAJTANIEJ NA ŚLĄSKU!",
-                "active": true,
+                "active": false,
                 "alt": ""
               },
               {
-                "tags": "Awesome",
+                "tags": "NIWELACJA TERENU",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/room-laptop-small.jpg",
-                "title": "Type title here",
-                "caption": "Type caption here"
+                "image": "@PROJECT_PATH@/assets/images/5a-1200x773.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5a-1200x773-800x515.jpg",
+                "title": "PRACE ZIEMNE",
+                "caption": "Usługi Koparko-ładowarką",
+                "active": true,
+                "alt": ""
               },
               {
                 "tags": "Beautiful",
