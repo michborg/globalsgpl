@@ -489,6 +489,10 @@ a:hover,
 .mbr-gallery-filter li:hover {
   color: #0dba26;
 }
+#slider5-h H3 {
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+}
 #menu2-1 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -560,8 +564,4 @@ a:hover,
 }
 #text1-i I {
   color: #000000;
-}
-#slider5-h H3 {
-  text-align: center;
-  font-family: 'Lato', sans-serif;
 }
