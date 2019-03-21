@@ -142,8 +142,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/2a-1200x773.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2a-1200x773-800x515.jpg",
-                "title": "NAJTANIEJ",
-                "caption": "NA ŚLĄSKU<br>DOLOMIT - ziemia - piasek - <br>kruszywa budowlane <br>- gruz - żwir, itp. -<div><br></div>",
+                "title": "KRUSZYWA<br>BUDOWLANE",
+                "caption": "<br><div>DOLOMIT - PIASEK - ZIEMIA - GRUZ ITP.</div>",
                 "active": true,
                 "alt": ""
               },
