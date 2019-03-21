@@ -42,320 +42,9 @@
       "components": [
         {
           "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showImages": true,
-            "paddingTop": 2,
-            "paddingBottom": "0",
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.75
-          },
-          "title": "Our proposition",
-          "text": "Maecenas at blandit augue, a blandit mi. Morbi non aliquet orci, in iaculis diam. Fusce fermentum rutrum ullamcorper. Integer nec odio nibh. Proin rhoncus pellentesque vulputate mauris et tincidun",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "lightbulb",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-lite"
-            }
-          },
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "notebook",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-lite"
-            }
-          },
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "home",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "gears",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-lite"
-            }
-          },
-          "title1": "ZLEceNIA PRYWATNE",
-          "title2": "ZLECENIA FIRMOWE",
-          "title3": "cooperative work",
-          "title4": "brainstorming",
-          "text1": "Lorem ipsum dolor sit amet, consec tetur adipiscing and brane in bibendum",
-          "text2": "Lorem ipsum dolor sit amet, consec tetur adipiscing and brane in bibendum",
-          "text3": "Lorem ipsum dolor sit amet, consec tetur adipiscing and brane in bibendum",
-          "text4": "Lorem ipsum dolor sit amet, consec tetur adipiscing and brane in bibendum",
-          "_tags": [
-            "Motywy"
-          ],
-          "_name": "content11",
-          "_anchor": "content11-l"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "showTitle": true,
-            "showText": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.5
-          },
-          "title": "Global Silesia Group - kim jesteśmy?",
-          "text": "<i>Jako <b>Global Silesia Group</b> jesteśmy firmą transportową, która od kilku lat prężnie się rozwija na terenie Śląska. Stanowimy rozśadnie dobrany zespół ludzi, którzy od ponad 20 lat specjalizują się w branży budowlanej, developerskiej, inwestycyjnej oraz handlowej. Zastosowane przez nas rozwiązania pozwalają na uzyskanie sporych oszczędności oraz dodatkowych wygód co przekłada się na konkurecyjną cenę naszych usług oraz towarów.<br></i><br><i>Dzięki zebranemu doświadczeniu jesteśmy w stanie zagwarantować Państwu 100% satysfakcji ze współpracy.<br></i><br><b>Dlaczego warto z nami współpracować?</b><br><br> ✔ Szeroka oferta kruszywa drogowego i budowlanego, m.in :  » <b>piasek</b> (<i>budowlany, <i>ostry</i>, siany, zasypowy</i>) »&nbsp;<b>dolomit</b> i <b>kruszywa</b>&nbsp;» ziemia  » torf  » zwir »&nbsp;granit, itp. <br>✔ Oferujemy usługi wywozu ziemii oraz odpadów: » <b>komunalnych</b> » <b>wielkogabarytowych</b> »&nbsp;<b>poremontowych</b> i <b>pobudowlanych</b> » <b>sezonowych</b> (trawa, liscie, galezie, snieg, itp) <br>✔ Szybka realizacja zlecen. Z uwagi na bogatą flotę samochodów ciężarowych (<b>II-IV oś</b>) gwarantujemy terminowe wykonanie uslugi. <br><br>Do kazdego Klienta podchodzimy indywidualnie i dopasowujemy jak najbardziej korzystne warunki. Elastycznosc to głowna cecha współpracy z nami!<br><br>Zasięg działalności <b>Global Silesia Group </b>obejmuje m.in w następujących miejscowościach na terenie <b>Śląska oraz Zagłębia</b>: Katowice, Bytom, Będzin, Chorzów, Czeladź, Dąbrowa Górnicza, Gliwice, Jaworzno, Mikołow, Mysłowice, Ruda Śląska, Rynik, Siemianowice Śląskie, Świętochłowice, Piekary Śląskie, Skoczów, Sosnowiec, Tychy, Zabrze, itp.<br>",
-          "_tags": [
-            "Motywy"
-          ],
-          "_name": "text1",
-          "_anchor": "text1-i",
-          "_styles": {
-            "P": {
-              "color": "#000000",
-              "text-align": "left"
-            },
-            "H3": {
-              "text-align": "left",
-              "color": "#c5960b"
-            },
-            "I": {
-              "color": "#000000"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": false,
-            "showText": false,
-            "autoplay": true,
-            "timeout": 5,
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "showArrows": true,
-            "showBullets": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/slider/main_slide_image_1.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5,
-            "visibleSlides": "6",
-            "slides": [
-              {
-                "active": true,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/1-150x90.jpg",
-                    "link": "https://mobirise.com",
-                    "active": true,
-                    "alt": "",
-                    "title": ""
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/2-150x90.jpg",
-                    "link": "https://mobirise.com",
-                    "active": true,
-                    "alt": "",
-                    "title": ""
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/3-150x90.jpg",
-                    "link": "https://mobirise.com",
-                    "active": true,
-                    "alt": "",
-                    "title": ""
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/4-150x90.jpg",
-                    "link": "https://mobirise.com",
-                    "active": true,
-                    "alt": "",
-                    "title": ""
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/5-150x90.jpg",
-                    "link": "https://mobirise.com",
-                    "active": true,
-                    "alt": "",
-                    "title": ""
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/investdom-150x90.jpg",
-                    "link": "https://mobirise.com",
-                    "active": true,
-                    "alt": "",
-                    "title": ""
-                  }
-                }
-              }
-            ]
-          },
-          "title": "NASI KLIENCI",
-          "subtitle": "",
-          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left.svg",
-          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right.svg",
-          "_tags": [
-            "Motywy"
-          ],
-          "_name": "slider5",
-          "_anchor": "slider5-h",
-          "_styles": {
-            "H3": {
-              "text-align": "center",
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
-            }
-          }
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#989898"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#989898"
-            },
-            ".link, .dropdown-item": {
-              "color": "#989898"
-            },
-            ".link": {
-              "font-size": "0.6rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "#fff"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#080808"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#1a1a1a!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#222"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#989898",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "#fff"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#fff!important"
-            }
-          },
-          "_params": {
-            "logo": true,
-            "sticky": false,
-            "transparent": false,
-            "bgColor": "#222",
-            "fontSize": "0.6",
-            "fontName": {},
-            "fontColor": "#989898",
-            "fontHoverColor": "#fff"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">O FIRMIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">USŁUGI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">NASI KLIENCI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">REFERENCJE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">KONTAKT</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/kopialog-258x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
-            }
-          },
-          "icons": "  <a data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Youtube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a> ",
-          "contacts": "<a data-app-btn=\"true\" href=\"tel:+123 (456) 7890 123\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span> +48 690 27 27 27</a><a data-app-btn=\"true\" href=\"mailto:sample@sample.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span>biuro@global-sg.pl</a>",
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "_tags": [
-            "Motywy"
-          ],
-          "_name": "menu2",
-          "_anchor": "menu2-1"
-        },
-        {
-          "_params": {
             "fullWidth": false,
             "filter": false,
-            "paddingTop": "0",
+            "paddingTop": "4",
             "paddingBottom": "0",
             "bgColor": "#FFFFFF",
             "images": [
@@ -467,6 +156,241 @@
           ],
           "_name": "gallery3",
           "_anchor": "gallery3-2"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "showTitle": true,
+            "showText": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "title": "Global Silesia Group - kim jesteśmy?",
+          "text": "<i>Jako <b>Global Silesia Group</b> jesteśmy firmą transportową, która od kilku lat prężnie się rozwija na terenie Śląska. Stanowimy rozśadnie dobrany zespół ludzi, którzy od ponad 20 lat specjalizują się w branży budowlanej, developerskiej, inwestycyjnej oraz handlowej. Zastosowane przez nas rozwiązania pozwalają na uzyskanie sporych oszczędności oraz dodatkowych wygód co przekłada się na konkurecyjną cenę naszych usług oraz towarów.<br></i><br><i>Dzięki zebranemu doświadczeniu jesteśmy w stanie zagwarantować Państwu 100% satysfakcji ze współpracy.<br></i><br><b>Dlaczego warto z nami współpracować?</b><br><br> ✔ Szeroka oferta kruszywa drogowego i budowlanego, m.in :  » <b>piasek</b> (<i>budowlany, <i>ostry</i>, siany, zasypowy</i>) »&nbsp;<b>dolomit</b> i <b>kruszywa</b>&nbsp;» ziemia  » torf  » zwir »&nbsp;granit, itp. <br>✔ Oferujemy usługi wywozu ziemii oraz odpadów: » <b>komunalnych</b> » <b>wielkogabarytowych</b> »&nbsp;<b>poremontowych</b> i <b>pobudowlanych</b> » <b>sezonowych</b> (trawa, liscie, galezie, snieg, itp) <br>✔ Szybka realizacja zlecen. Z uwagi na bogatą flotę samochodów ciężarowych (<b>II-IV oś</b>) gwarantujemy terminowe wykonanie uslugi. <br><br>Do kazdego Klienta podchodzimy indywidualnie i dopasowujemy jak najbardziej korzystne warunki. Elastycznosc to głowna cecha współpracy z nami!<br><br>Zasięg działalności <b>Global Silesia Group </b>obejmuje m.in w następujących miejscowościach na terenie <b>Śląska oraz Zagłębia</b>: Katowice, Bytom, Będzin, Chorzów, Czeladź, Dąbrowa Górnicza, Gliwice, Jaworzno, Mikołow, Mysłowice, Ruda Śląska, Rynik, Siemianowice Śląskie, Świętochłowice, Piekary Śląskie, Skoczów, Sosnowiec, Tychy, Zabrze, itp.<br>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "text1",
+          "_anchor": "text1-i",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "text-align": "left"
+            },
+            "H3": {
+              "text-align": "left",
+              "color": "#c5960b"
+            },
+            "I": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "autoplay": true,
+            "timeout": 5,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "showArrows": true,
+            "showBullets": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/slider/main_slide_image_1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5,
+            "visibleSlides": "6",
+            "slides": [
+              {
+                "active": true,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/1-150x90.jpg",
+                    "link": "https://mobirise.com",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/2-150x90.jpg",
+                    "link": "https://mobirise.com",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/3-150x90.jpg",
+                    "link": "https://mobirise.com",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/4-150x90.jpg",
+                    "link": "https://mobirise.com",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/5-150x90.jpg",
+                    "link": "https://mobirise.com",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/investdom-150x90.jpg",
+                    "link": "https://mobirise.com",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              }
+            ]
+          },
+          "title": "<span style=\"font-weight: normal;\"></span>",
+          "subtitle": "",
+          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left.svg",
+          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right.svg",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "slider5",
+          "_anchor": "slider5-h",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#c5960b"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#989898"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#989898"
+            },
+            ".link, .dropdown-item": {
+              "color": "#989898"
+            },
+            ".link": {
+              "font-size": "0.6rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.650rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#fff"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#080808"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#1a1a1a!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#222"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#989898",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#fff"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#fff!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "sticky": false,
+            "transparent": false,
+            "bgColor": "#222",
+            "fontSize": "0.6",
+            "fontName": {},
+            "fontColor": "#989898",
+            "fontHoverColor": "#fff"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">O FIRMIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">USŁUGI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">NASI KLIENCI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">REFERENCJE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">KONTAKT</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/kopialog-258x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            }
+          },
+          "icons": "  <a data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Youtube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a> ",
+          "contacts": "<a data-app-btn=\"true\" href=\"tel:+123 (456) 7890 123\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span> +48 690 27 27 27</a><a data-app-btn=\"true\" href=\"mailto:sample@sample.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span>biuro@global-sg.pl</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "menu2",
+          "_anchor": "menu2-1"
         }
       ]
     }
