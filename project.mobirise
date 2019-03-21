@@ -445,7 +445,7 @@
           "title3": "<span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(197, 150, 11);\"></span>TELEFON",
           "text1": "<b>GLOBAL &nbsp;SILESIA GROUP </b>Przelotowa 15, Dąbrowa G.<br><b>NIP</b>: 6441500309<br>REGON:&nbsp;",
           "text2": "<b><a href=\"mailto:biuro@global-sg.pl\" class=\"text-black\">biuro@global-sg.pl</a></b><br><i>Odpowiadamy w ciągu 24h</i><br><i>(w dni robocze)<br></i><br>",
-          "text3": "<b>Dostępny w godz.</b><br>8:00 - 20:00&nbsp;<br>(od pon do pt)<br><b>+48 690 27 27 27</b>",
+          "text3": "<b>Dostępny w godz.</b><br>8:00 - 20:00&nbsp;<br>(<i>od pon do pt)</i><br><b>+48 690 27 27 27</b>",
           "form": {
             "title": "MESSAGE",
             "action": "biuro@global-sg.pl",
@@ -483,7 +483,7 @@
           "_styles": {
             "P": {
               "color": "#000000",
-              "text-align": "center"
+              "text-align": "left"
             }
           }
         }
