@@ -61,7 +61,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Global Transport Silesia Group",
-          "text": "Transport i sprzedaż towarów masowych oraz kruszyw? Jesteśmy do Twojej dyspozycji na terenie Śląska oraz Zagłębia!",
+          "text": "<b>Transport i sprzedaż towarów masowych oraz kruszyw?</b> Jesteśmy do Twojej dyspozycji na terenie Śląska oraz Zagłębia!",
           "_tags": [
             "Motywy"
           ],
@@ -72,10 +72,11 @@
               "color": "#c5960b"
             },
             "P": {
-              "color": "#333333",
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-size": "16px"
+              "color": "#000000",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "14px",
+              "text-align": "center"
             }
           }
         },
