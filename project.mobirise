@@ -180,18 +180,20 @@
                 "thumb": "@PROJECT_PATH@/assets/images/5a-1200x773-800x515.jpg",
                 "title": "PRACE ZIEMNE",
                 "caption": "Usługi Koparko-ładowarką",
-                "active": true,
+                "active": false,
                 "alt": ""
               },
               {
-                "tags": "Beautiful",
+                "tags": "BOGATA FLOTA",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/table.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/table-small.jpg",
-                "title": "Type title here",
-                "caption": "Type caption here"
+                "image": "@PROJECT_PATH@/assets/images/1ab-1200x773.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1ab-1200x773-800x515.jpg",
+                "title": "+ 10 SAMOCHODÓW",
+                "caption": "ORAZ SPRZĘT BUDOWLANY",
+                "active": true,
+                "alt": ""
               },
               {
                 "tags": "Responsive",
