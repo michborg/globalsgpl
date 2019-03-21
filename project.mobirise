@@ -18,7 +18,8 @@
         "isRoundedButtons": false
       },
       "additionalSetColors": [
-        "#ac6e1f"
+        "#ac6e1f",
+        "#c5960b"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -137,8 +138,8 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.5
           },
-          "title": "O Firmie",
-          "text": "Jako <i><b>Global Silesia Group</b></i> jesteśmy firmą transportową, która od kilku lat prężnie się rozwija na terenie Śląska. Stanowimy rozśadnie dobrany zespół ludzi, którzy od ponad 20 lat specjalizują się w branży budowlanej, developerskiej, inwestycyjnej oraz handlowej. Zastosowane przez nas rozwiązania pozwalają na uzyskanie sporych oszczędności oraz dodatkowych wygód co przekłada się na konkurecyjną cenę naszych usług oraz towarów.<br><br>Dzięki zebranemu doświadczeniu <i>jesteśmy</i> w stanie zagwarantować Państwu 100% satysfakcji ze współpracy.<br><br><b>Dlaczego warto z nami współpracować?</b><br><br>&gt;&gt; Szeroka oferta kruszywa drogowego i budowlanego, m.in : piasek (budowlany, ostry, siany, zasypowy) dolomit i inne kruszywa, ziemia, torf, zwir, granit, itp. <br>&gt;&gt; Oferujemy usługi wywozu ziemii oraz odpadów: komunalnych, wielkogabarytowych, poremontowych i pobudowlanych, sezonowych (trawa, liscie, galezie, snieg, itp) &gt;&gt; Szybka realizacja zlecen. Z uwagi na bogatą flotę samochodów ciężarowych (II-IV os) gwarantujemy terminowe wykonanie uslugi. <br><br>Do kazdego Klienta podchodzimy indywidualnie i dopasowujemy jak najbardziej korzystne warunki. Elastycznosc to głowna cecha współpracy z nami!<br><br>Zasięg działalności Global Silesia Group obejmuje m.in w następujących miejscowościach na terenie <b>Śląska oraz Zagłębia</b>: Katowice, Bytom, Będzin, Chorzów, Czeladź, Dąbrowa Górnicza, Gliwice, Jaworzno, Mikołow, Mysłowice, Ruda Śląska, Rynik, Siemianowice Śląskie, Świętochłowice, Piekary Śląskie, Skoczów, Sosnowiec, Tychy, Zabrze, itp.<br>",
+          "title": "Global Silesia Group - kim jesteśmy?",
+          "text": "<i>Jako <b>Global Silesia Group</b> jesteśmy firmą transportową, która od kilku lat prężnie się rozwija na terenie Śląska. Stanowimy rozśadnie dobrany zespół ludzi, którzy od ponad 20 lat specjalizują się w branży budowlanej, developerskiej, inwestycyjnej oraz handlowej. Zastosowane przez nas rozwiązania pozwalają na uzyskanie sporych oszczędności oraz dodatkowych wygód co przekłada się na konkurecyjną cenę naszych usług oraz towarów.<br></i><br><i>Dzięki zebranemu doświadczeniu jesteśmy w stanie zagwarantować Państwu 100% satysfakcji ze współpracy.<br></i><br><b>Dlaczego warto z nami współpracować?</b><br><br> ✔ Szeroka oferta kruszywa drogowego i budowlanego, m.in :  » <b>piasek</b> (<i>budowlany, <i>ostry</i>, siany, zasypowy</i>) »&nbsp;<b>dolomit</b> i <b>kruszywa</b>&nbsp;» ziemia  » torf  » zwir »&nbsp;granit, itp. <br>✔ Oferujemy usługi wywozu ziemii oraz odpadów: » <b>komunalnych</b> » <b>wielkogabarytowych</b> »&nbsp;<b>poremontowych</b> i <b>pobudowlanych</b> » <b>sezonowych</b> (trawa, liscie, galezie, snieg, itp) <br>✔ Szybka realizacja zlecen. Z uwagi na bogatą flotę samochodów ciężarowych (<b>II-IV oś</b>) gwarantujemy terminowe wykonanie uslugi. <br><br>Do kazdego Klienta podchodzimy indywidualnie i dopasowujemy jak najbardziej korzystne warunki. Elastycznosc to głowna cecha współpracy z nami!<br><br>Zasięg działalności <b>Global Silesia Group </b>obejmuje m.in w następujących miejscowościach na terenie <b>Śląska oraz Zagłębia</b>: Katowice, Bytom, Będzin, Chorzów, Czeladź, Dąbrowa Górnicza, Gliwice, Jaworzno, Mikołow, Mysłowice, Ruda Śląska, Rynik, Siemianowice Śląskie, Świętochłowice, Piekary Śląskie, Skoczów, Sosnowiec, Tychy, Zabrze, itp.<br>",
           "_tags": [
             "Motywy"
           ],
@@ -146,6 +147,14 @@
           "_anchor": "text1-i",
           "_styles": {
             "P": {
+              "color": "#000000",
+              "text-align": "left"
+            },
+            "H3": {
+              "text-align": "left",
+              "color": "#c5960b"
+            },
+            "I": {
               "color": "#000000"
             }
           }

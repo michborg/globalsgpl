@@ -552,6 +552,14 @@ a:hover,
 }
 #text1-i P {
   color: #000000;
+  text-align: left;
+}
+#text1-i H3 {
+  text-align: left;
+  color: #c5960b;
+}
+#text1-i I {
+  color: #000000;
 }
 #slider5-h H3 {
   text-align: center;
