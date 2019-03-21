@@ -565,3 +565,6 @@ a:hover,
 #menu2-1 .dropdown-item[aria-expanded="true"] {
   color: #fff!important;
 }
+#contacts1-x P {
+  color: #000000;
+}
