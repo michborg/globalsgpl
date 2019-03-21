@@ -25,7 +25,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.6",
     "siteFonts": [],
-    "uniqCompNum": 19,
+    "uniqCompNum": 22,
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png"
   },
@@ -42,7 +42,84 @@
       "components": [
         {
           "_params": {
-            "paddingTop": "2",
+            "showTitle": false,
+            "showText": false,
+            "showImages": true,
+            "paddingTop": 2,
+            "paddingBottom": "0",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "title": "Our proposition",
+          "text": "Maecenas at blandit augue, a blandit mi. Morbi non aliquet orci, in iaculis diam. Fusce fermentum rutrum ullamcorper. Integer nec odio nibh. Proin rhoncus pellentesque vulputate mauris et tincidun",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "lightbulb",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-lite"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "notebook",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-lite"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "gears",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-lite"
+            }
+          },
+          "title1": "ZLEceNIA PRYWATNE",
+          "title2": "ZLECENIA FIRMOWE",
+          "title3": "cooperative work",
+          "title4": "brainstorming",
+          "text1": "Lorem ipsum dolor sit amet, consec tetur adipiscing and brane in bibendum",
+          "text2": "Lorem ipsum dolor sit amet, consec tetur adipiscing and brane in bibendum",
+          "text3": "Lorem ipsum dolor sit amet, consec tetur adipiscing and brane in bibendum",
+          "text4": "Lorem ipsum dolor sit amet, consec tetur adipiscing and brane in bibendum",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "content11",
+          "_anchor": "content11-l"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
             "paddingBottom": "0",
             "showTitle": true,
             "showText": true,
