@@ -26,7 +26,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.6",
     "siteFonts": [],
-    "uniqCompNum": 36,
+    "uniqCompNum": 37,
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png"
   },
@@ -438,9 +438,9 @@
           "title1": "<span class=\"etl-icon icon-map-pin mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(197, 150, 11);\"></span>Adres",
           "title2": "<span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(197, 150, 11);\"></span>e-mail",
           "title3": "<span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(197, 150, 11);\"></span>TELEFON",
-          "text1": "GLOBAL &nbsp;SILESIA GROUP PRZELOTOWA 15<br>42-523 DĄBROWA GÓRNICZA<br>NIP: 6441500309",
-          "text2": "<a href=\"mailto:sample@sample.com\" class=\"text-black\">b</a>iuro@global-sg.pl<br>",
-          "text3": "+48 690 27 27 27",
+          "text1": "<b>GLOBAL &nbsp;SILESIA GROUP </b>Przelotowa 15, Dąbrowa G.<br><b>NIP</b>: 6441500309<br>REGON:&nbsp;",
+          "text2": "<b><a href=\"mailto:biuro@global-sg.pl\" class=\"text-black\">biuro@global-sg.pl</a></b><br><i>Odpowiadamy w ciągu 24h</i><br><i>(w dni robocze)<br></i><br>",
+          "text3": "<b>Dostępny w godz.</b><br>8:00 - 20:00&nbsp;<br>(od pon do pt)<br><b>+48 690 27 27 27</b>",
           "form": {
             "title": "MESSAGE",
             "action": "biuro@global-sg.pl",
@@ -477,7 +477,8 @@
           "_anchor": "contacts1-x",
           "_styles": {
             "P": {
-              "color": "#000000"
+              "color": "#000000",
+              "text-align": "center"
             }
           }
         },
