@@ -87,7 +87,7 @@
           },
           "_params": {
             "logo": true,
-            "sticky": true,
+            "sticky": false,
             "transparent": false,
             "bgColor": "#222",
             "fontSize": "0.6",
@@ -234,12 +234,12 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": false,
             "autoplay": true,
             "timeout": 5,
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "showArrows": true,
             "showBullets": true,
             "bgImageRadio": false,
@@ -254,7 +254,7 @@
             "overlay": false,
             "overlayColor": "#000",
             "overlayOpacity": 0.5,
-            "visibleSlides": "5",
+            "visibleSlides": "6",
             "slides": [
               {
                 "active": false,
