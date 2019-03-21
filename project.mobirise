@@ -565,12 +565,17 @@
               "src": "@THEME_PATH@/components/_images/inst_6.jpg"
             }
           },
-          "copyright": "2016 All rights reserved. Development by <a href=\"https://theme.express\">Theme.Express</a>",
+          "copyright": "<span style=\"font-weight: normal;\">Wszelkie prawa zastrzeżone. Wszystkie teksty, rysunki, zdjęcia oraz inne informacje opublikowane na niniejszych stronach podlegają prawom autorskim spółki. Wszelkie kopiowanie, dystrybucja, elektroniczne przetwarzanie oraz przesyłkanie zawartości bez zezwolenia Global SG jest zabronione.</span><br>",
           "_tags": [
             "Motywy"
           ],
           "_name": "footer2",
-          "_anchor": "footer2-z"
+          "_anchor": "footer2-z",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     }
