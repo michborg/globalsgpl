@@ -469,7 +469,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-warning\" type=\"submit\" role=\"button\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove\">Wyślij wiadomość</a>",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-black\" type=\"submit\" role=\"button\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove\">Wyślij wiadomość</a>",
           "_tags": [
             "Motywy"
           ],
