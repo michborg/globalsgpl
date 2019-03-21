@@ -43,7 +43,124 @@
       "components": [
         {
           "_params": {
-            "paddingTop": "2",
+            "fullWidth": false,
+            "filter": false,
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgColor": "#FFFFFF",
+            "images": [
+              {
+                "tags": "Dolomit, Kruszec, Piasek, itp",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1a-1200x773.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1a-1200x773-800x515.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "TRANSPORT",
+                "caption": "KRUSZYWA I materiałów sypkich",
+                "active": true,
+                "alt": ""
+              },
+              {
+                "tags": "SPRZEDAŻ MATERIAŁÓW",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2a-1200x773.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2a-1200x773-800x515.jpg",
+                "title": "KRUSZYWA<br>BUDOWLANE",
+                "caption": "<div>DOLOMIT - PIASEK - ZIEMIA - GRUZ ITP.</div>",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "USŁUGI POBUDOWLANE",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/3a-1200x773.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3a-1200x773-800x515.jpg",
+                "title": "WYWÓZ",
+                "caption": "GRUZU, KAMIENIA, ITP.",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "WYWÓZ ŚMIECI",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/6a-1-1200x773.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6a-1-1200x773-800x515.jpg",
+                "title": "KARTA ODPADU",
+                "caption": "NAJTANIEJ NA ŚLĄSKU!",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "NIWELACJA TERENU",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/5a-1200x773.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5a-1200x773-800x515.jpg",
+                "title": "PRACE ZIEMNE",
+                "caption": "Usługi Koparko-ładowarką",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "BOGATA FLOTA",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/1ab-1200x773.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1ab-1200x773-800x515.jpg",
+                "title": "+ 10 SAMOCHODÓW",
+                "caption": "ORAZ SPRZĘT BUDOWLANY",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "WYWÓZ SEZONOWY",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/w4a-1200x773.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/w4a-1200x773-800x515.jpg",
+                "title": "WYWÓZ",
+                "caption": "TRAWA, ŚNIEG, ITp.",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "DOŚWIADCZENI KIEROWCY",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/120f-1200x773.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/120f-1200x773-800x515.jpg",
+                "title": "SZUKASZ PRACY?",
+                "caption": "WYŚLIJ CV",
+                "active": false,
+                "alt": ""
+              }
+            ]
+          },
+          "articleLayout": false,
+          "title": "Our portfolio",
+          "text": "Suspendisse gravida tristique ante vel pretium. Curabitur strong pellentesque non urna in euismod. Pellentesque vestibulum, enim a accumsan convallis, enim sem iaculis sem",
+          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left-white.svg",
+          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right-white.svg",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "gallery3",
+          "_anchor": "gallery3-2"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
             "paddingBottom": "0",
             "showTitle": true,
             "showText": true,
@@ -201,123 +318,6 @@
               "text-align": "center"
             }
           }
-        },
-        {
-          "_params": {
-            "fullWidth": false,
-            "filter": false,
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgColor": "#FFFFFF",
-            "images": [
-              {
-                "tags": "Dolomit, Kruszec, Piasek, itp",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "image": "@PROJECT_PATH@/assets/images/1a-1200x773.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1a-1200x773-800x515.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "TRANSPORT",
-                "caption": "KRUSZYWA I materiałów sypkich",
-                "active": true,
-                "alt": ""
-              },
-              {
-                "tags": "SPRZEDAŻ MATERIAŁÓW",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/2a-1200x773.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2a-1200x773-800x515.jpg",
-                "title": "KRUSZYWA<br>BUDOWLANE",
-                "caption": "<div>DOLOMIT - PIASEK - ZIEMIA - GRUZ ITP.</div>",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "USŁUGI POBUDOWLANE",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/3a-1200x773.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/3a-1200x773-800x515.jpg",
-                "title": "WYWÓZ",
-                "caption": "GRUZU, KAMIENIA, ITP.",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "WYWÓZ ŚMIECI",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/6a-1-1200x773.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/6a-1-1200x773-800x515.jpg",
-                "title": "KARTA ODPADU",
-                "caption": "NAJTANIEJ NA ŚLĄSKU!",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "NIWELACJA TERENU",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/5a-1200x773.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/5a-1200x773-800x515.jpg",
-                "title": "PRACE ZIEMNE",
-                "caption": "Usługi Koparko-ładowarką",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "BOGATA FLOTA",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/1ab-1200x773.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1ab-1200x773-800x515.jpg",
-                "title": "+ 10 SAMOCHODÓW",
-                "caption": "ORAZ SPRZĘT BUDOWLANY",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "WYWÓZ SEZONOWY",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/w4a-1200x773.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/w4a-1200x773-800x515.jpg",
-                "title": "WYWÓZ",
-                "caption": "TRAWA, ŚNIEG, ITp.",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "DOŚWIADCZENI KIEROWCY",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/120f-1200x773.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/120f-1200x773-800x515.jpg",
-                "title": "SZUKASZ PRACY?",
-                "caption": "WYŚLIJ CV",
-                "active": false,
-                "alt": ""
-              }
-            ]
-          },
-          "articleLayout": false,
-          "title": "Our portfolio",
-          "text": "Suspendisse gravida tristique ante vel pretium. Curabitur strong pellentesque non urna in euismod. Pellentesque vestibulum, enim a accumsan convallis, enim sem iaculis sem",
-          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left-white.svg",
-          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right-white.svg",
-          "_tags": [
-            "Motywy"
-          ],
-          "_name": "gallery3",
-          "_anchor": "gallery3-2"
         },
         {
           "_styles": {
