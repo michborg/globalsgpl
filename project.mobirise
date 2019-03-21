@@ -26,7 +26,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.6",
     "siteFonts": [],
-    "uniqCompNum": 45,
+    "uniqCompNum": 46,
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png"
   },
@@ -43,9 +43,44 @@
       "components": [
         {
           "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "showTitle": true,
+            "showText": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "title": "Global Transport Silesia Group",
+          "text": "Transport i sprzedaż towarów masowych oraz kruszyw? Jesteśmy do Twojej dyspozycji na terenie śląska oraz zagłębia!",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "text1",
+          "_anchor": "text1-19",
+          "_styles": {
+            "H3": {
+              "color": "#c5960b"
+            },
+            "P": {
+              "color": "#333333"
+            }
+          }
+        },
+        {
+          "_params": {
             "fullWidth": false,
             "filter": false,
-            "paddingTop": "4",
+            "paddingTop": "0",
             "paddingBottom": "1",
             "bgColor": "#FFFFFF",
             "images": [
