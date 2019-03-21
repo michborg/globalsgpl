@@ -74,7 +74,8 @@
             },
             "H3": {
               "text-align": "left",
-              "color": "#c5960b"
+              "color": "#c5960b",
+              "font-size": "17px"
             },
             "I": {
               "color": "#000000"
@@ -399,8 +400,8 @@
         },
         {
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "showTitle": true,
             "showText": true,
             "parallax": false,
