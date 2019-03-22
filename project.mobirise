@@ -88,14 +88,14 @@
           "_params": {
             "autoplay": true,
             "fullScreen": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "showBullets": true,
             "bgColor": "#fff",
             "timeout": 5,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/main-slide-image-3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3a-1200x773.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
@@ -103,14 +103,15 @@
                 "playVideo": false,
                 "innerImage": "@PROJECT_PATH@/assets/images/home-4.png",
                 "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
-                "title": "Creative site",
-                "overlay": false,
+                "title": "Global Transport",
+                "overlay": true,
                 "contentAlign": "left",
-                "text": "Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi. In a diam vehicula sed sollicitudin mattis",
-                "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a><a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>"
+                "text": "Silesia Group - Transport oraz Sprzedaż kruszywa",
+                "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnMove\">USŁUGI TRANSPORTOWE</a><a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnMove\">SPRZEDAŻ KRUSZYWA</a>",
+                "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/main-slide-image-4.jpg",
+                "image": "@PROJECT_PATH@/assets/images/5a-1200x773.jpg",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
@@ -118,11 +119,12 @@
                 "playVideo": false,
                 "innerImage": "@PROJECT_PATH@/assets/images/home-4.png",
                 "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
-                "title": "Creative site",
-                "overlay": false,
+                "title": "",
+                "overlay": true,
                 "contentAlign": "left",
                 "text": "Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi. In a diam vehicula sed sollicitudin mattis",
-                "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a><a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>"
+                "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a><a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
+                "alt": ""
               }
             ]
           },
