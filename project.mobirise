@@ -355,10 +355,13 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 320,
-              "src": "@THEME_PATH@/components/_images/unit.jpg"
+              "src": "@PROJECT_PATH@/assets/images/3a-320x206.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
             },
             "video": {
-              "active": true,
               "src": "https://www.youtube.com/watch?v=CluVGS25Kb0",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
@@ -368,10 +371,10 @@
           },
           "title": "Global Transport Silesia Group",
           "text": "Zawsze terminowe realizowanie zleceń. Bogata oferta oraz szereg zadowolonych Kontrahentów!",
-          "title1": "WYWÓZ ŚMIECI, GRUZU, ITP.",
-          "title2": "TRANSPORT MATERIAŁÓW",
+          "title1": "TRANSPORT ORAZ WYWÓZ",
+          "title2": "USŁUGI KOPARKO-ŁADOWARKĄ",
           "title3": "Proin rhoncus rutrum",
-          "text1": "oraz materiałów sezonowycj, liście, śnieg, gałęzie, itp.&nbsp;",
+          "text1": ".....",
           "text11": "<span class=\"etl-icon icon-lightbulb mbr-iconfont mbr-iconfont-btn\"></span>Gwarancja najlepszej ceny!",
           "text12": "<span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>Terminowe wykonanie usługi",
           "text13": "<span class=\"etl-icon icon-profile-male mbr-iconfont mbr-iconfont-btn\"></span>Krótko lub długotrwała współpraca!",
@@ -386,7 +389,7 @@
               "title": ""
             }
           },
-          "text2": "Potrzebujesz przewieźć materiał z punktu A do punktu B? Możemy wykonać dla Ciebie transport.&nbsp;",
+          "text2": "......",
           "text21": "<span class=\"etl-icon icon-lightbulb mbr-iconfont mbr-iconfont-btn\"></span>Gwarancja najlepszej ceny!",
           "text22": "<span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>ATerminowe wykonanie usługi.",
           "text23": "<span class=\"etl-icon icon-profile-male mbr-iconfont mbr-iconfont-btn\"></span>Krótko lub długotrwała współpraca",
