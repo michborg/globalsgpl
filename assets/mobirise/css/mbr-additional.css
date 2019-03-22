@@ -601,6 +601,9 @@ a:hover,
   color: #000000;
   text-align: left;
 }
+#contacts1-x H4 {
+  text-align: right;
+}
 #slider5-h H3 {
   text-align: center;
   font-family: 'Montserrat', sans-serif;

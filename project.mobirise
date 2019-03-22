@@ -336,7 +336,7 @@
             "showTitle": true,
             "showText": true,
             "showMedia": true,
-            "columns": 2,
+            "columns": "2",
             "inverse": true,
             "parallax": false,
             "bgImageRadio": false,
@@ -622,6 +622,9 @@
             "P": {
               "color": "#000000",
               "text-align": "left"
+            },
+            "H4": {
+              "text-align": "right"
             }
           }
         },
