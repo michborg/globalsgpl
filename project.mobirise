@@ -657,7 +657,7 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/1-150x90.jpg",
-                    "link": "https://mobirise.com",
+                    "link": "",
                     "active": true,
                     "alt": "",
                     "title": ""
@@ -669,7 +669,7 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/2-150x90.jpg",
-                    "link": "https://mobirise.com",
+                    "link": "",
                     "active": true,
                     "alt": "",
                     "title": ""
@@ -681,7 +681,7 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/3-150x90.jpg",
-                    "link": "https://mobirise.com",
+                    "link": "",
                     "active": true,
                     "alt": "",
                     "title": ""
@@ -693,7 +693,7 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/4-150x90.jpg",
-                    "link": "https://mobirise.com",
+                    "link": "",
                     "active": true,
                     "alt": "",
                     "title": ""
@@ -705,7 +705,7 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/5-150x90.jpg",
-                    "link": "https://mobirise.com",
+                    "link": "",
                     "active": true,
                     "alt": "",
                     "title": ""
@@ -717,7 +717,7 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/investdom-150x90.jpg",
-                    "link": "https://mobirise.com",
+                    "link": "",
                     "active": true,
                     "alt": "",
                     "title": ""
