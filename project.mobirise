@@ -6,7 +6,7 @@
       "name": "clarus",
       "title": "Clarus",
       "styling": {
-        "primaryColor": "#fac51c",
+        "primaryColor": "#c5960b",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -367,7 +367,7 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "columns": 3,
             "tabsLeft": "3",
             "tabsCenter": "3",
@@ -376,7 +376,7 @@
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
