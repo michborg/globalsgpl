@@ -238,7 +238,7 @@
               "color": "#000000"
             },
             "B": {
-              "color": "#ba110e"
+              "color": "#000000"
             }
           }
         },
@@ -439,9 +439,6 @@
           "_styles": {
             "P": {
               "color": "#333333"
-            },
-            "H2": {
-              "color": "#000000"
             }
           }
         },
@@ -601,7 +598,7 @@
           },
           "title": "Masz pytanie?",
           "text": "Za pośrednictwem poniższego formularza wyślij nam wiadomość!",
-          "title1": "<span class=\"etl-icon icon-map-pin mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(197, 150, 11);\"></span>Adres",
+          "title1": "<span class=\"etl-icon icon-map-pin mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(197, 150, 11);\"></span>Adres sIEDZIBy",
           "title2": "<span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(197, 150, 11);\"></span>e-mail",
           "title3": "<span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(197, 150, 11);\"></span>TELEFON",
           "text1": "<b>GLOBAL &nbsp;SILESIA GROUP </b>Przelotowa 15, Dąbrowa G.<br><b>NIP</b>: 6441500309<br>REGON:&nbsp;",
