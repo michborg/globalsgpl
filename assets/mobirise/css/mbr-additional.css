@@ -522,6 +522,10 @@ a:hover,
   color: #000000;
   text-align: center;
 }
+#header8-1a SPAN {
+  font-size: 36px;
+  color: #c5960b;
+}
 #menu2-1 .hide-buttons .nav-btn {
   display: none !important;
 }

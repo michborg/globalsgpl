@@ -26,7 +26,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.6",
     "siteFonts": [],
-    "uniqCompNum": 46,
+    "uniqCompNum": 48,
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png"
   },
@@ -358,6 +358,41 @@
             "P": {
               "color": "#000000",
               "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header8.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.7
+          },
+          "title": "<span>&nbsp;Chcesz zamówić transport?</span>",
+          "text": "Jesteś zainteresowany współpracą z nami? Wypełnij formularz - skontaktujemy się w ciągu 24h<br>",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-warning\" role=\"button\" data-toolbar=\"-mbrBtnMove\">ZOSTAW WIADOMOŚĆ</a>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "header8",
+          "_anchor": "header8-1a",
+          "_styles": {
+            "SPAN": {
+              "font-size": "36px",
+              "color": "#c5960b"
             }
           }
         },
