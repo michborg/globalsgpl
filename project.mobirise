@@ -626,7 +626,7 @@
               }
             ]
           },
-          "title": "&nbsp;Nasi kontrahenci&nbsp;<span style=\"font-weight: normal;\"></span>",
+          "title": "&nbsp;Nasi kontrahenci<span style=\"font-weight: normal;\"></span>",
           "subtitle": "Współpracujemy z wieloma firmami z branży budowlanej, kilka z nich przedstawiamy poniżej:",
           "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left.svg",
           "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right.svg",
