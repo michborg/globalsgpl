@@ -30,7 +30,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.6",
     "siteFonts": [],
-    "uniqCompNum": 60,
+    "uniqCompNum": 61,
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png"
   },
@@ -220,8 +220,8 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.5
           },
-          "title": "Global Silesia Group - kim jesteśmy?",
-          "text": "<i><i><i>Jako <b>Global Transport Silesia Group</b> jesteśmy firmą transportową, która od kilku lat prężnie się rozwija na terenie Śląska. Stanowimy rozśadnie dobrany zespół ludzi, którzy od ponad 20 lat specjalizują się w branży budowlanej, developerskiej, inwestycyjnej oraz handlowej. Zastosowane przez nas rozwiązania pozwalają na uzyskanie sporych oszczędności oraz dodatkowych wygód co przekłada się na konkurecyjną cenę naszych usług oraz towarów.</i><br></i><br>Dzięki zebranemu doświadczeniu jesteśmy w stanie zagwarantować Państwu 100% satysfakcji ze współpracy.<br><br><b>Dlaczego warto z nami współpracować?</b><br><br> ✔ Szeroka oferta kruszywa drogowego i budowlanego, m.in :  » <b>piasek</b> (budowlany, ostry, siany, zasypowy) »&nbsp;<b>dolomit</b> i <b>kruszywa</b>&nbsp;» ziemia  » torf  » zwir »&nbsp;granit, itp. <br>✔ Oferujemy usługi wywozu ziemii oraz odpadów: » <b>komunalnych</b> » <b>wielkogabarytowych</b> »&nbsp;<b>poremontowych</b> i <b>pobudowlanych</b> » <b>sezonowych</b> (trawa, liscie, galezie, snieg, itp) <br>✔ Szybka realizacja zlecen. Z uwagi na bogatą flotę samochodów ciężarowych (<b>II-IV oś</b>) gwarantujemy terminowe wykonanie uslugi. <br><br>Do kazdego Klienta podchodzimy indywidualnie i dopasowujemy jak najbardziej korzystne warunki. Elastycznosc to głowna cecha współpracy z nami!<br><br>Zasięg działalności <b>Global Silesia Group </b>obejmuje m.in w następujących miejscowościach na terenie <b>Śląska oraz Zagłębia</b>: Katowice, Bytom, Będzin, Chorzów, Czeladź, Dąbrowa Górnicza, Gliwice, Jaworzno, Mikołow, Mysłowice, Ruda Śląska, Rynik, Siemianowice Śląskie, Świętochłowice, Piekary Śląskie, Skoczów, Sosnowiec, Tychy, Zabrze, itp.<br><br><b>Sprawdź poniżej naszą ofertę kruszywa:&nbsp;</b></i><br>",
+          "title": "<i>Global Silesia Group - kim jesteśmy?</i>",
+          "text": "<i>Jako <b>Global Transport Silesia Group</b> jesteśmy firmą transportową, która od kilku lat prężnie się rozwija na terenie Śląska. Stanowimy rozśadnie dobrany zespół ludzi, którzy od ponad 20 lat specjalizują się w branży budowlanej, developerskiej, inwestycyjnej oraz handlowej. Zastosowane przez nas rozwiązania pozwalają na uzyskanie sporych oszczędności oraz dodatkowych wygód co przekłada się na konkurecyjną cenę naszych usług oraz towarów.<br><br>Dzięki zebranemu doświadczeniu jesteśmy w stanie zagwarantować Państwu 100% satysfakcji ze współpracy.<br><br><b>Dlaczego warto z nami współpracować?</b><br><br> ✔ Szeroka oferta kruszywa drogowego i budowlanego, m.in :  » <b>piasek</b> (budowlany, ostry, siany, zasypowy) »&nbsp;<b>dolomit</b> i <b>kruszywa</b>&nbsp;» ziemia  » torf  » zwir »&nbsp;granit, itp. <br>✔ Oferujemy usługi wywozu ziemii oraz odpadów: » <b>komunalnych</b> » <b>wielkogabarytowych</b> »&nbsp;<b>poremontowych</b> i <b>pobudowlanych</b> » <b>sezonowych</b> (trawa, liscie, galezie, snieg, itp) <br>✔ Szybka realizacja zlecen. Z uwagi na bogatą flotę samochodów ciężarowych (<b>II-IV oś</b>) gwarantujemy terminowe wykonanie uslugi. <br><br>Do kazdego Klienta podchodzimy indywidualnie i dopasowujemy jak najbardziej korzystne warunki. Elastycznosc to głowna cecha współpracy z nami!<br><br>Zasięg działalności <b>Global Silesia Group </b>obejmuje m.in w następujących miejscowościach na terenie <b>Śląska oraz Zagłębia</b>: Katowice, Bytom, Będzin, Chorzów, Czeladź, Dąbrowa Górnicza, Gliwice, Jaworzno, Mikołow, Mysłowice, Ruda Śląska, Rynik, Siemianowice Śląskie, Świętochłowice, Piekary Śląskie, Skoczów, Sosnowiec, Tychy, Zabrze, itp.<br><br><b>Sprawdź poniżej naszą ofertę kruszywa:&nbsp;</b></i><br>",
           "_tags": [
             "Motywy"
           ],
@@ -328,6 +328,96 @@
               "text-align": "center"
             }
           }
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "showTitle": true,
+            "showText": true,
+            "showMedia": true,
+            "columns": 2,
+            "inverse": true,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 320,
+              "src": "@THEME_PATH@/components/_images/unit.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=CluVGS25Kb0",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Global Transport Silesia Group",
+          "text": "Zawsze terminowe realizowanie zleceń. Bogata oferta oraz szereg zadowolonych Kontrahentów!",
+          "title1": "WYWÓZ ŚMIECI, GRUZU, ITP.",
+          "title2": "TRANSPORT MATERIAŁÓW",
+          "title3": "Proin rhoncus rutrum",
+          "text1": "oraz materiałów sezonowycj, liście, śnieg, gałęzie, itp.&nbsp;",
+          "text11": "<span class=\"etl-icon icon-lightbulb mbr-iconfont mbr-iconfont-btn\"></span>Gwarancja najlepszej ceny!",
+          "text12": "<span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>Terminowe wykonanie usługi",
+          "text13": "<span class=\"etl-icon icon-profile-male mbr-iconfont mbr-iconfont-btn\"></span>Krótko lub długotrwała współpraca!",
+          "media1": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 640,
+              "src": "@PROJECT_PATH@/assets/images/4a-640x412.jpg",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "text2": "Potrzebujesz przewieźć materiał z punktu A do punktu B? Możemy wykonać dla Ciebie transport.&nbsp;",
+          "text21": "<span class=\"etl-icon icon-lightbulb mbr-iconfont mbr-iconfont-btn\"></span>Gwarancja najlepszej ceny!",
+          "text22": "<span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>ATerminowe wykonanie usługi.",
+          "text23": "<span class=\"etl-icon icon-profile-male mbr-iconfont mbr-iconfont-btn\"></span>Krótko lub długotrwała współpraca",
+          "media2": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 640,
+              "src": "@PROJECT_PATH@/assets/images/5a-640x412.jpg",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "text3": "Nulla vitae urna eleifend ultrices lorem ut, posuere sapien tor",
+          "text31": "<span class=\"etl-icon icon-lightbulb mbr-iconfont mbr-iconfont-btn\"></span>Came up with idea",
+          "text32": "<span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>Any time with conection",
+          "text33": "<span class=\"etl-icon icon-profile-male mbr-iconfont mbr-iconfont-btn\"></span>Professional workers",
+          "media3": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 640,
+              "src": "@PROJECT_PATH@/assets/images/unit-item-3.jpg",
+              "active": true
+            }
+          },
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-1o"
         },
         {
           "_params": {
