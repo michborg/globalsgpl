@@ -464,7 +464,7 @@
           },
           "title": "<span>&nbsp;Chcesz zamówić transport?</span>",
           "text": "Jesteś zainteresowany współpracą z nami? Wypełnij formularz - skontaktujemy się w ciągu 24h<br>",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-warning\" role=\"button\" data-toolbar=\"-mbrBtnMove\">ZOSTAW WIADOMOŚĆ</a>",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-black\" role=\"button\" data-toolbar=\"-mbrBtnMove\">ZOSTAW WIADOMOŚĆ</a>",
           "_tags": [
             "Motywy"
           ],
