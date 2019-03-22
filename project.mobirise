@@ -30,7 +30,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.6",
     "siteFonts": [],
-    "uniqCompNum": 61,
+    "uniqCompNum": 62,
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png"
   },
@@ -748,20 +748,20 @@
         {
           "_params": {
             "paddingTop": 0,
-            "paddingBottom": "0",
+            "paddingBottom": 0,
             "showMedia": true,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/adobestock-22341144-2000x1333.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
-            "bgColor": "#c5960b",
+            "bgColor": "#212121",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
             "overlayColor": "#151515",
-            "overlayOpacity": "1"
+            "overlayOpacity": 0.75
           },
           "media": {
             "image": {
@@ -828,15 +828,14 @@
               "src": "@THEME_PATH@/components/_images/inst_6.jpg"
             }
           },
-          "copyright": "<span style=\"font-weight: normal;\">2019 Wszystkie prawa zastrzeżone. Copyright by </span>Global Silesia Group",
+          "copyright": "2019 - All rights reserved. Development by Global Transport Silesia Group",
           "_tags": [
             "Motywy"
           ],
           "_name": "footer2",
-          "_anchor": "footer2-1f",
+          "_anchor": "footer2-1p",
           "_styles": {
             "SPAN": {
-              "color": "#ffffff",
               "font-size": "14px"
             }
           }
