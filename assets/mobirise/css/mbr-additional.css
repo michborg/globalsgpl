@@ -528,6 +528,10 @@ a:hover,
 #accordion2-1d P {
   color: #333333;
 }
+#accordion2-1d H2 {
+  font-size: 14px;
+  text-align: left;
+}
 #header8-1a SPAN {
   font-size: 36px;
   color: #000000;
