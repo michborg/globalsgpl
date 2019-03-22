@@ -451,7 +451,7 @@
             "paddingBottom": "0",
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header8.jpg",
             "parallax": false,
@@ -561,7 +561,7 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "1",
             "showTitle": true,
             "showText": true,
