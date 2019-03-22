@@ -532,6 +532,15 @@ a:hover,
   font-size: 16px;
   text-align: center;
 }
+#slider5-h H3 {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: #000000;
+}
+#slider5-h P {
+  color: #000000;
+  text-align: center;
+}
 #header8-1a SPAN {
   font-size: 36px;
   color: #000000;
@@ -603,15 +612,6 @@ a:hover,
 }
 #contacts1-x H4 {
   text-align: right;
-}
-#slider5-h H3 {
-  text-align: center;
-  font-family: 'Montserrat', sans-serif;
-  color: #000000;
-}
-#slider5-h P {
-  color: #000000;
-  text-align: center;
 }
 #footer2-1p SPAN {
   font-size: 14px;

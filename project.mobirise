@@ -424,6 +424,126 @@
         },
         {
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "autoplay": true,
+            "timeout": "3",
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "showArrows": true,
+            "showBullets": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/slider/main_slide_image_1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5,
+            "visibleSlides": "6",
+            "slides": [
+              {
+                "active": true,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/1-150x90.jpg",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/2-150x90.jpg",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/3-150x90.jpg",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/4-150x90.jpg",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/5-150x90.jpg",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/investdom-150x90.jpg",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              }
+            ]
+          },
+          "title": "&nbsp;Nasi kontrahenci<span style=\"font-weight: normal;\"></span>",
+          "subtitle": "Współpracujemy z wieloma firmami z branży budowlanej, kilka z nich przedstawiamy poniżej:",
+          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left.svg",
+          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right.svg",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "slider5",
+          "_anchor": "slider5-h",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#000000",
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
             "showTitle": true,
@@ -625,126 +745,6 @@
             },
             "H4": {
               "text-align": "right"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "autoplay": true,
-            "timeout": "3",
-            "paddingTop": "0",
-            "paddingBottom": "2",
-            "showArrows": true,
-            "showBullets": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/slider/main_slide_image_1.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5,
-            "visibleSlides": "6",
-            "slides": [
-              {
-                "active": true,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/1-150x90.jpg",
-                    "link": "",
-                    "active": true,
-                    "alt": "",
-                    "title": ""
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/2-150x90.jpg",
-                    "link": "",
-                    "active": true,
-                    "alt": "",
-                    "title": ""
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/3-150x90.jpg",
-                    "link": "",
-                    "active": true,
-                    "alt": "",
-                    "title": ""
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/4-150x90.jpg",
-                    "link": "",
-                    "active": true,
-                    "alt": "",
-                    "title": ""
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/5-150x90.jpg",
-                    "link": "",
-                    "active": true,
-                    "alt": "",
-                    "title": ""
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/investdom-150x90.jpg",
-                    "link": "",
-                    "active": true,
-                    "alt": "",
-                    "title": ""
-                  }
-                }
-              }
-            ]
-          },
-          "title": "&nbsp;Nasi kontrahenci<span style=\"font-weight: normal;\"></span>",
-          "subtitle": "Współpracujemy z wieloma firmami z branży budowlanej, kilka z nich przedstawiamy poniżej:",
-          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left.svg",
-          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right.svg",
-          "_tags": [
-            "Motywy"
-          ],
-          "_name": "slider5",
-          "_anchor": "slider5-h",
-          "_styles": {
-            "H3": {
-              "text-align": "center",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "color": "#000000"
-            },
-            "P": {
-              "color": "#000000",
-              "text-align": "center"
             }
           }
         },
