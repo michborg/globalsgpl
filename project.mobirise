@@ -30,7 +30,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.6",
     "siteFonts": [],
-    "uniqCompNum": 58,
+    "uniqCompNum": 60,
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png"
   },
@@ -221,7 +221,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Global Silesia Group - kim jesteśmy?",
-          "text": "<i>Jako <b>Global Transport Silesia Group</b> jesteśmy firmą transportową, która od kilku lat prężnie się rozwija na terenie Śląska. Stanowimy rozśadnie dobrany zespół ludzi, którzy od ponad 20 lat specjalizują się w branży budowlanej, developerskiej, inwestycyjnej oraz handlowej. Zastosowane przez nas rozwiązania pozwalają na uzyskanie sporych oszczędności oraz dodatkowych wygód co przekłada się na konkurecyjną cenę naszych usług oraz towarów.<br><br>Dzięki zebranemu doświadczeniu jesteśmy w stanie zagwarantować Państwu 100% satysfakcji ze współpracy.<br><br><b>Dlaczego warto z nami współpracować?</b><br><br> ✔ Szeroka oferta kruszywa drogowego i budowlanego, m.in :  » <b>piasek</b> (budowlany, ostry, siany, zasypowy) »&nbsp;<b>dolomit</b> i <b>kruszywa</b>&nbsp;» ziemia  » torf  » zwir »&nbsp;granit, itp. <br>✔ Oferujemy usługi wywozu ziemii oraz odpadów: » <b>komunalnych</b> » <b>wielkogabarytowych</b> »&nbsp;<b>poremontowych</b> i <b>pobudowlanych</b> » <b>sezonowych</b> (trawa, liscie, galezie, snieg, itp) <br>✔ Szybka realizacja zlecen. Z uwagi na bogatą flotę samochodów ciężarowych (<b>II-IV oś</b>) gwarantujemy terminowe wykonanie uslugi. <br><br>Do kazdego Klienta podchodzimy indywidualnie i dopasowujemy jak najbardziej korzystne warunki. Elastycznosc to głowna cecha współpracy z nami!<br><br>Zasięg działalności <b>Global Silesia Group </b>obejmuje m.in w następujących miejscowościach na terenie <b>Śląska oraz Zagłębia</b>: Katowice, Bytom, Będzin, Chorzów, Czeladź, Dąbrowa Górnicza, Gliwice, Jaworzno, Mikołow, Mysłowice, Ruda Śląska, Rynik, Siemianowice Śląskie, Świętochłowice, Piekary Śląskie, Skoczów, Sosnowiec, Tychy, Zabrze, itp.</i><br><br><b><i>Sprawdź poniżej naszą ofertę kruszywa:&nbsp;</i></b><br>",
+          "text": "<i><i><i>Jako <b>Global Transport Silesia Group</b> jesteśmy firmą transportową, która od kilku lat prężnie się rozwija na terenie Śląska. Stanowimy rozśadnie dobrany zespół ludzi, którzy od ponad 20 lat specjalizują się w branży budowlanej, developerskiej, inwestycyjnej oraz handlowej. Zastosowane przez nas rozwiązania pozwalają na uzyskanie sporych oszczędności oraz dodatkowych wygód co przekłada się na konkurecyjną cenę naszych usług oraz towarów.</i><br></i><br>Dzięki zebranemu doświadczeniu jesteśmy w stanie zagwarantować Państwu 100% satysfakcji ze współpracy.<br><br><b>Dlaczego warto z nami współpracować?</b><br><br> ✔ Szeroka oferta kruszywa drogowego i budowlanego, m.in :  » <b>piasek</b> (budowlany, ostry, siany, zasypowy) »&nbsp;<b>dolomit</b> i <b>kruszywa</b>&nbsp;» ziemia  » torf  » zwir »&nbsp;granit, itp. <br>✔ Oferujemy usługi wywozu ziemii oraz odpadów: » <b>komunalnych</b> » <b>wielkogabarytowych</b> »&nbsp;<b>poremontowych</b> i <b>pobudowlanych</b> » <b>sezonowych</b> (trawa, liscie, galezie, snieg, itp) <br>✔ Szybka realizacja zlecen. Z uwagi na bogatą flotę samochodów ciężarowych (<b>II-IV oś</b>) gwarantujemy terminowe wykonanie uslugi. <br><br>Do kazdego Klienta podchodzimy indywidualnie i dopasowujemy jak najbardziej korzystne warunki. Elastycznosc to głowna cecha współpracy z nami!<br><br>Zasięg działalności <b>Global Silesia Group </b>obejmuje m.in w następujących miejscowościach na terenie <b>Śląska oraz Zagłębia</b>: Katowice, Bytom, Będzin, Chorzów, Czeladź, Dąbrowa Górnicza, Gliwice, Jaworzno, Mikołow, Mysłowice, Ruda Śląska, Rynik, Siemianowice Śląskie, Świętochłowice, Piekary Śląskie, Skoczów, Sosnowiec, Tychy, Zabrze, itp.<br><br><b>Sprawdź poniżej naszą ofertę kruszywa:&nbsp;</b></i><br>",
           "_tags": [
             "Motywy"
           ],
@@ -324,8 +324,8 @@
               "color": "#333333"
             },
             "H2": {
-              "font-size": "14px",
-              "text-align": "left"
+              "font-size": "16px",
+              "text-align": "center"
             }
           }
         },
