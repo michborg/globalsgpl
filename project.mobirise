@@ -654,7 +654,7 @@
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/adobestock-22341144-2000x1333.jpg",
             "bgColorRadio": true,
-            "bgColor": "#f3c649",
+            "bgColor": "#c5960b",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -728,7 +728,7 @@
               "src": "@THEME_PATH@/components/_images/inst_6.jpg"
             }
           },
-          "copyright": "2019 Wszystkie prawa zastrzeżone. Copyright by G<span style=\"font-weight: normal;\">lobal Silesia Group</span>",
+          "copyright": "<span style=\"font-weight: normal;\">2019 Wszystkie prawa zastrzeżone. Copyright by </span>Global Silesia Group",
           "_tags": [
             "Motywy"
           ],
@@ -736,7 +736,8 @@
           "_anchor": "footer2-1f",
           "_styles": {
             "SPAN": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "14px"
             }
           }
         }
