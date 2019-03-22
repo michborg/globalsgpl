@@ -420,7 +420,12 @@
             "Motywy"
           ],
           "_name": "content4",
-          "_anchor": "content4-1o"
+          "_anchor": "content4-1o",
+          "_styles": {
+            "H1": {
+              "font-size": "20px"
+            }
+          }
         },
         {
           "_params": {
