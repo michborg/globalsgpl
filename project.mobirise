@@ -6,11 +6,11 @@
       "name": "clarus",
       "title": "Clarus",
       "styling": {
-        "primaryColor": "#ffffff",
-        "secondaryColor": "#bfcecb",
-        "successColor": "#90a878",
+        "primaryColor": "#c5960b",
+        "secondaryColor": "#000000",
+        "successColor": "#000000",
         "infoColor": "#000000",
-        "warningColor": "#f3c649",
+        "warningColor": "#000000",
         "dangerColor": "#000000",
         "titleFont": "Montserrat",
         "subtitleFont": "Raleway",
@@ -467,7 +467,7 @@
           },
           "title": "<span>&nbsp;Chcesz zamówić transport?</span>",
           "text": "Jesteś zainteresowany współpracą z nami? Wypełnij formularz - skontaktujemy się w ciągu 24h<br>",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-danger\" role=\"button\" data-toolbar=\"-mbrBtnMove\">ZOSTAW WIADOMOŚĆ</a>",
+          "buttons": " <a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-danger\" role=\"button\" data-toolbar=\"-mbrBtnMove\">NAPISZ WIADOMOŚĆ</a>",
           "_tags": [
             "Motywy"
           ],
