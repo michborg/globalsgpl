@@ -428,7 +428,7 @@
             "showText": true,
             "autoplay": true,
             "timeout": "3",
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "2",
             "showArrows": true,
             "showBullets": true,
@@ -447,7 +447,7 @@
             "visibleSlides": "6",
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/1-150x90.jpg",
@@ -459,7 +459,7 @@
                 }
               },
               {
-                "active": false,
+                "active": true,
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/2-150x90.jpg",
@@ -520,7 +520,7 @@
               }
             ]
           },
-          "title": "&nbsp;Nasi kontrahenci<span style=\"font-weight: normal;\"></span>",
+          "title": "Nasi kontrahenci<span style=\"font-weight: normal;\"></span>",
           "subtitle": "Współpracujemy z wieloma firmami z branży budowlanej, kilka z nich przedstawiamy poniżej:",
           "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left.svg",
           "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right.svg",
@@ -534,7 +534,8 @@
               "text-align": "center",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "20px"
             },
             "P": {
               "color": "#000000",
@@ -572,7 +573,7 @@
           "_anchor": "header8-1a",
           "_styles": {
             "SPAN": {
-              "font-size": "36px",
+              "font-size": "20px",
               "color": "#000000"
             }
           }
@@ -745,6 +746,9 @@
             },
             "H4": {
               "text-align": "right"
+            },
+            "H1": {
+              "font-size": "20px"
             }
           }
         },
