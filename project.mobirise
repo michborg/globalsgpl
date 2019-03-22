@@ -6,28 +6,31 @@
       "name": "clarus",
       "title": "Clarus",
       "styling": {
-        "primaryColor": "#c5960b",
+        "primaryColor": "#ffffff",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
-        "infoColor": "#7e9b9f",
+        "infoColor": "#000000",
         "warningColor": "#f3c649",
-        "dangerColor": "#f28281",
+        "dangerColor": "#000000",
         "titleFont": "Montserrat",
         "subtitleFont": "Raleway",
         "textFont": "Raleway",
-        "isRoundedButtons": false
+        "isRoundedButtons": true
       },
       "additionalSetColors": [
         "#ac6e1f",
         "#c5960b",
         "#989898",
-        "#f3c649"
+        "#f3c649",
+        "#7e9b9f",
+        "#90a878",
+        "#bfcecb"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.6",
     "siteFonts": [],
-    "uniqCompNum": 52,
+    "uniqCompNum": 53,
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png"
   },
@@ -464,7 +467,7 @@
           },
           "title": "<span>&nbsp;Chcesz zamówić transport?</span>",
           "text": "Jesteś zainteresowany współpracą z nami? Wypełnij formularz - skontaktujemy się w ciągu 24h<br>",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-warning\" role=\"button\" data-toolbar=\"-mbrBtnMove\">ZOSTAW WIADOMOŚĆ</a>",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-danger\" role=\"button\" data-toolbar=\"-mbrBtnMove\">ZOSTAW WIADOMOŚĆ</a>",
           "_tags": [
             "Motywy"
           ],
