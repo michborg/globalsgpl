@@ -525,6 +525,12 @@ a:hover,
 #text1-i B {
   color: #000000;
 }
+#header7-1s H1 {
+  text-align: center;
+}
+#header7-1s SPAN {
+  font-size: 16px;
+}
 #accordion2-1d P {
   color: #333333;
 }

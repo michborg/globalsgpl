@@ -50,7 +50,7 @@
             "fullWidth": false,
             "filter": false,
             "paddingTop": "5",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgColor": "#c5960b",
             "images": [
               {
@@ -265,14 +265,22 @@
             "overlayColor": "#333333",
             "overlayOpacity": 0.7
           },
-          "title": "<span>Get new information</span>",
+          "title": "<span>&nbsp;Oferta kruszywa</span>",
           "text": "Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi. In a diam vehicula sed sollicitudin mattis nunc ut orci lobortis pellentesque",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
           "_tags": [
             "Motywy"
           ],
           "_name": "header7",
-          "_anchor": "header7-1s"
+          "_anchor": "header7-1s",
+          "_styles": {
+            "H1": {
+              "text-align": "center"
+            },
+            "SPAN": {
+              "font-size": "16px"
+            }
+          }
         },
         {
           "_params": {
