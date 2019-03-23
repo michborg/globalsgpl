@@ -164,35 +164,6 @@
         },
         {
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "0",
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/adobestock-85615360-2000x1335.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#333333",
-            "overlayOpacity": 0.7
-          },
-          "title": "<span>Get new information</span>",
-          "text": "Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi. In a diam vehicula sed sollicitudin mattis nunc ut orci lobortis pellentesque",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
-          "_tags": [
-            "Motywy"
-          ],
-          "_name": "header7",
-          "_anchor": "header7-1s"
-        },
-        {
-          "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
             "showTitle": true,
@@ -273,6 +244,35 @@
               "color": "#000000"
             }
           }
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/header7.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#333333",
+            "overlayOpacity": 0.7
+          },
+          "title": "<span>Get new information</span>",
+          "text": "Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi. In a diam vehicula sed sollicitudin mattis nunc ut orci lobortis pellentesque",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "header7",
+          "_anchor": "header7-1s"
         },
         {
           "_params": {
