@@ -788,35 +788,6 @@
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/6a-1-1200x773.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.7
-          },
-          "title": "<span>Get new information</span>",
-          "text": "Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi. In a diam vehicula sed sollicitudin mattis nunc ut orci lobortis pellentesque",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
-          "_tags": [
-            "Motywy"
-          ],
-          "_name": "header7",
-          "_anchor": "header7-1r"
-        },
-        {
-          "_params": {
             "paddingTop": 0,
             "paddingBottom": 0,
             "showMedia": true,
