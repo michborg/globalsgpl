@@ -170,7 +170,7 @@
             "showText": false,
             "showButtons": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/header7.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/adobestock-85615360-2000x1335.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
