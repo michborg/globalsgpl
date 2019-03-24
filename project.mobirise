@@ -30,7 +30,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.6",
     "siteFonts": [],
-    "uniqCompNum": 65,
+    "uniqCompNum": 66,
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png"
   },
@@ -687,8 +687,9 @@
               "src": "@PROJECT_PATH@/assets/images/kopialog-258x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "https://global-sg.pl",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "icons": "   <a data-app-btn=\"true\" title=\"Youtube\" target=\"_blank\" href=\"http://www.instagram.com\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 15px;\"></span></a>  <a data-app-btn=\"true\" title=\"Youtube\" target=\"_blank\" href=\"http://www.olx.pl\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 15px;\"></span></a> <a data-app-btn=\"true\" title=\"Youtube\" target=\"_blank\" href=\"http://www.facebook.com\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 15px;\"></span></a> ",
@@ -794,6 +795,84 @@
               "font-size": "20px"
             }
           }
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "showImages": true,
+            "showHover": false,
+            "columns": "4",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "title": "Our news",
+          "text": "Suspendisse gravida tristique ante vel pretium. Curabitur pellente sque non urna in euismod. Pellentesque vestibulum, enim a accumsan convallis, enim sem iaculis sem",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">view all news</a>",
+          "mediahover": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/plus.png",
+              "active": true
+            }
+          },
+          "media1": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 640,
+              "src": "@PROJECT_PATH@/assets/images/news-item-1.jpg",
+              "active": true
+            }
+          },
+          "media2": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 640,
+              "src": "@PROJECT_PATH@/assets/images/news-item-2.jpg",
+              "active": true
+            }
+          },
+          "media3": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 640,
+              "src": "@PROJECT_PATH@/assets/images/news-item-3.jpg",
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 640,
+              "src": "@PROJECT_PATH@/assets/images/news-item-4.jpg",
+              "active": true
+            }
+          },
+          "title1": "<a href=\"http://mobirise.com\">R</a>EFERENCJA #1",
+          "title2": "REFERENCJA #2",
+          "title3": "REFERENCJA #3",
+          "title4": "REFERENCJA #4",
+          "text1": "....",
+          "text2": "...",
+          "text3": "....",
+          "text4": "...",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "content13",
+          "_anchor": "content13-1t"
         },
         {
           "_params": {
