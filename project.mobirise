@@ -296,7 +296,7 @@
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -358,7 +358,8 @@
           "_anchor": "accordion2-1d",
           "_styles": {
             "P": {
-              "color": "#333333"
+              "color": "#333333",
+              "text-align": "center"
             },
             "H2": {
               "font-size": "16px",
