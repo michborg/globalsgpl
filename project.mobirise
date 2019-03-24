@@ -798,7 +798,7 @@
         },
         {
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": false,
             "showButtons": false,
             "showImages": true,
@@ -819,7 +819,7 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.75
           },
-          "title": "Our news",
+          "title": "Referencje",
           "text": "Suspendisse gravida tristique ante vel pretium. Curabitur pellente sque non urna in euismod. Pellentesque vestibulum, enim a accumsan convallis, enim sem iaculis sem",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">view all news</a>",
           "mediahover": {
@@ -864,15 +864,20 @@
           "title2": "REFERENCJA #2",
           "title3": "REFERENCJA #3",
           "title4": "REFERENCJA #4",
-          "text1": "....",
-          "text2": "...",
-          "text3": "....",
-          "text4": "...",
+          "text1": "Referencja #1",
+          "text2": "Referencja #2",
+          "text3": "Referencja #3",
+          "text4": "Referencja #4",
           "_tags": [
             "Motywy"
           ],
           "_name": "content13",
-          "_anchor": "content13-1t"
+          "_anchor": "content13-1t",
+          "_styles": {
+            "H2": {
+              "font-size": "20px"
+            }
+          }
         },
         {
           "_params": {
