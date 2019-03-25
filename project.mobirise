@@ -86,7 +86,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/3a-1200x773-800x515.jpg",
                 "title": "WYWÓZ",
                 "caption": "GRUZU, KAMIENIA, ITP.",
-                "active": false,
+                "active": true,
                 "alt": ""
               },
               {
@@ -98,7 +98,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/4a-1-1200x773-800x515.jpg",
                 "title": "ROZBIÓRKI I WYBURZENIA",
                 "caption": "NAJTANIEJ NA ŚLĄSKU!",
-                "active": true,
+                "active": false,
                 "alt": ""
               },
               {
@@ -132,10 +132,10 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/w4a-1200x773.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/w4a-1200x773-800x515.jpg",
-                "title": "WYWÓZ",
-                "caption": "TRAWA, ŚNIEG, ITp.",
+                "title": "WYWROTEK",
+                "caption": "czteroosiowych <br>o ładowności 20t",
                 "active": false,
-                "alt": ""
+                "alt": "DUŻA FLOTA"
               },
               {
                 "tags": "DOŚWIADCZENI KIEROWCY",
@@ -789,7 +789,7 @@
               "text-align": "left"
             },
             "H4": {
-              "text-align": "right"
+              "text-align": "left"
             },
             "H1": {
               "font-size": "20px"
