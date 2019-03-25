@@ -62,7 +62,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "title": "TRANSPORT",
                 "caption": "KRUSZYWA I materiałów sypkich",
-                "active": true,
+                "active": false,
                 "alt": ""
               },
               {
@@ -94,11 +94,11 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/6a-1-1200x773.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/6a-1-1200x773-800x515.jpg",
+                "image": "@PROJECT_PATH@/assets/images/4a-1200x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4a-1200x800-800x533.jpg",
                 "title": "ROZBIÓRKI I WYBURZENIA",
                 "caption": "NAJTANIEJ NA ŚLĄSKU!",
-                "active": false,
+                "active": true,
                 "alt": ""
               },
               {
