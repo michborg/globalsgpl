@@ -359,7 +359,7 @@
           "_styles": {
             "P": {
               "color": "#333333",
-              "text-align": "center"
+              "text-align": "left"
             },
             "H2": {
               "font-size": "16px",
