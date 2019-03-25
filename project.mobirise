@@ -50,7 +50,7 @@
             "fullWidth": false,
             "filter": false,
             "paddingTop": "5",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgColor": "#c5960b",
             "images": [
               {
