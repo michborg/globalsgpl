@@ -832,32 +832,44 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 640,
-              "src": "@PROJECT_PATH@/assets/images/news-item-1.jpg",
-              "active": true
+              "src": "@PROJECT_PATH@/assets/images/licencja-210x300.jpg",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media2": {
             "image": {
               "class": "mbr-figure__img",
               "width": 640,
-              "src": "@PROJECT_PATH@/assets/images/news-item-2.jpg",
-              "active": true
+              "src": "@PROJECT_PATH@/assets/images/licencja-210x300.jpg",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media3": {
             "image": {
               "class": "mbr-figure__img",
               "width": 640,
-              "src": "@PROJECT_PATH@/assets/images/news-item-3.jpg",
-              "active": true
+              "src": "@PROJECT_PATH@/assets/images/licencja-210x300.jpg",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media4": {
             "image": {
               "class": "mbr-figure__img",
               "width": 640,
-              "src": "@PROJECT_PATH@/assets/images/news-item-4.jpg",
-              "active": true
+              "src": "@PROJECT_PATH@/assets/images/licencja-210x300.jpg",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "title1": "<a href=\"http://mobirise.com\">R</a>EFERENCJA #1",
