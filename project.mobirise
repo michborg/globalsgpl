@@ -799,10 +799,10 @@
         {
           "_params": {
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": false,
             "showImages": true,
-            "showHover": false,
+            "showHover": true,
             "columns": "4",
             "paddingTop": "0",
             "paddingBottom": "0",
