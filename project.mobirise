@@ -54,18 +54,6 @@
             "bgColor": "#c5960b",
             "images": [
               {
-                "tags": "DOLOMIT, ŻWIR, PIASEK, ITP",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "image": "@PROJECT_PATH@/assets/images/3a-1-1200x773.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/3a-1-1200x773-800x515.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "SPRZEDAŻ",
-                "caption": "KRUSZYWA - NAJLEPSZE CENY",
-                "active": false,
-                "alt": ""
-              },
-              {
                 "tags": "KRUSZYWO I MATERIAŁY SYPKIE",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -74,6 +62,18 @@
                 "thumb": "@PROJECT_PATH@/assets/images/1a-1-1200x773-800x515.jpg",
                 "title": "TRANSPORT",
                 "caption": "PIASEK, DOLOMIT, ŻWIR, ZIEMIA, ITP",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "DOLOMIT, ŻWIR, PIASEK, ITP",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3a-1-1200x773.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3a-1-1200x773-800x515.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "SPRZEDAŻ",
+                "caption": "KRUSZYWA - NAJLEPSZE CENY",
                 "active": false,
                 "alt": ""
               },
