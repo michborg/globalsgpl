@@ -253,7 +253,7 @@
             "showText": false,
             "showButtons": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/header7.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/adobestock-145722935-1400x933.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
