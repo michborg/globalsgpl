@@ -1006,7 +1006,7 @@
               "src": "@THEME_PATH@/components/_images/inst_6.jpg"
             }
           },
-          "copyright": "Global Silesia Group | Wszelkie prawa zastrzeżone | Copyright © 2019 | <a href=\"index.html\"><b>www.global-sg.pl</b></a><br>",
+          "copyright": "<u>Global Transport Silesia Group</u><span style=\"font-weight: normal;\"><br>Wszelkie prawa zastrzeżone | Copyright © 2019</span> | <a href=\"index.html\"><b>www.global-sg.pl</b></a><br>",
           "_tags": [
             "Motywy"
           ],
@@ -1014,7 +1014,8 @@
           "_anchor": "footer2-1p",
           "_styles": {
             "SPAN": {
-              "font-size": "14px"
+              "font-size": "16px",
+              "color": "#ffffff"
             }
           }
         }
