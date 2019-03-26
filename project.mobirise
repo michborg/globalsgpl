@@ -897,13 +897,13 @@
         {
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "5",
             "showTitle": false,
             "showText": false,
             "showButtons": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/adobestock-204342717-1400x317.jpg",
-            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/adobestock-204342718-1400x317.jpg",
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
