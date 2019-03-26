@@ -31,7 +31,7 @@
     "versionFirst": "4.9.6",
     "siteFonts": [],
     "uniqCompNum": 69,
-    "versionPublish": "4.9.6",
+    "versionPublish": "4.8.10",
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -393,7 +393,7 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 320,
-              "src": "@PROJECT_PATH@/assets/images/3a-320x206.jpg",
+              "src": "@PROJECT_PATH@/assets/images/adobestock-228431056-320x222.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -407,35 +407,35 @@
               "loop": false
             }
           },
-          "title": "Global Transport Silesia Group",
-          "text": "Zawsze terminowe realizowanie zleceń. Bogata oferta oraz szereg zadowolonych Kontrahentów!",
-          "title1": "TRANSPORT ORAZ WYWÓZ",
-          "title2": "USŁUGI KOPARKO-ŁADOWARKĄ",
+          "title": "USŁUGI KOPARKO-ŁADOWARKĄ",
+          "text": ".W celu ustalenia szczegółów kontraktu/zlecenia zachęcamy do kontaktu przez formularz lub telefon.",
+          "title1": "Usługi koparko-ładowarką",
+          "title2": "WSPÓŁPRACA I ZLECENIA",
           "title3": "Proin rhoncus rutrum",
-          "text1": ".....",
-          "text11": "<span class=\"etl-icon icon-lightbulb mbr-iconfont mbr-iconfont-btn\"></span>Gwarancja najlepszej ceny!",
-          "text12": "<span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>Terminowe wykonanie usługi",
-          "text13": "<span class=\"etl-icon icon-profile-male mbr-iconfont mbr-iconfont-btn\"></span>Krótko lub długotrwała współpraca!",
+          "text1": "Oferujemy usługi, koparko-ładowarką na terenie Śląska. Do wachlarza usług zaliczamy m.in,",
+          "text11": "<span class=\"mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn\"></span>Roboty ziemne, odśnieżanie, wykopy",
+          "text12": "<span class=\"mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn\"></span>Niewelacje terenu, stabilizacja terenu,",
+          "text13": "<span class=\"mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn\"></span>Wyburzenia, załadunek i rozładunek",
           "media1": {
             "image": {
               "class": "mbr-figure__img",
               "width": 640,
-              "src": "@PROJECT_PATH@/assets/images/4a-640x412.jpg",
+              "src": "@PROJECT_PATH@/assets/images/adobestock-140043944-640x427.jpg",
               "active": true,
               "link": "",
               "alt": "",
               "title": ""
             }
           },
-          "text2": "......",
-          "text21": "<span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\"></span>Gwarancja najlepszej ceny!",
+          "text2": "W przypadku długoterminowych kontraktów istnieje możliwość negocjacji cen.<br>",
+          "text21": "<span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\"></span>Cena ustalana indywidualnie z Klientem.",
           "text22": "<span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>Terminowe wykonanie usługi.",
-          "text23": "<span class=\"etl-icon icon-profile-male mbr-iconfont mbr-iconfont-btn\"></span>Krótko lub długotrwała współpraca<br>",
+          "text23": "<span class=\"mobi-mbri mobi-mbri-timer mbr-iconfont mbr-iconfont-btn\"></span>Krótko lub długotrwała współpraca<br>",
           "media2": {
             "image": {
               "class": "mbr-figure__img",
               "width": 640,
-              "src": "@PROJECT_PATH@/assets/images/5a-640x412.jpg",
+              "src": "@PROJECT_PATH@/assets/images/adobestock-206896839-640x427.jpg",
               "active": true,
               "link": "",
               "alt": "",
