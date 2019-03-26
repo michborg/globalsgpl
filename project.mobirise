@@ -30,7 +30,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.6",
     "siteFonts": [],
-    "uniqCompNum": 72,
+    "uniqCompNum": 73,
     "versionPublish": "4.8.10",
     "screenshot": "screenshot.png"
   },
@@ -263,7 +263,7 @@
             },
             "overlay": true,
             "overlayColor": "#333333",
-            "overlayOpacity": 0.7
+            "overlayOpacity": "0.6"
           },
           "title": "<span>&nbsp;Oferta kruszywa</span>",
           "text": "Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi. In a diam vehicula sed sollicitudin mattis nunc ut orci lobortis pellentesque",
@@ -893,6 +893,35 @@
               "font-size": "20px"
             }
           }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/adobestock-204342721-1400x317.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.6"
+          },
+          "title": "<span>Get new information</span>",
+          "text": "Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi. In a diam vehicula sed sollicitudin mattis nunc ut orci lobortis pellentesque",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-20"
         },
         {
           "_params": {
