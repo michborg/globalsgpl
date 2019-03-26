@@ -897,7 +897,7 @@
         {
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "5",
+            "paddingBottom": "3",
             "showTitle": false,
             "showText": false,
             "showButtons": false,
