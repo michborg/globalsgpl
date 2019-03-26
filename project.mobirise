@@ -665,10 +665,10 @@
               "title": ""
             }
           },
-          "title1": "<a href=\"http://mobirise.com\">R</a>EFERENCJA #1",
-          "title2": "REFERENCJA #2",
-          "title3": "REFERENCJA #3",
-          "title4": "REFERENCJA #4",
+          "title1": "<a href=\"index.html\" target=\"_blank\">REFERENCJA #1</a>",
+          "title2": "<a href=\"index.html\">REFERENCJA #2</a>",
+          "title3": "<a href=\"index.html\">REFERENCJA #3</a>",
+          "title4": "<a href=\"index.html\">REFERENCJA #4</a>",
           "text1": "Referencja #1",
           "text2": "Referencja #2",
           "text3": "Referencja #3",
