@@ -108,7 +108,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/4a-2-1200x773.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/4a-2-1200x773-800x515.jpg",
-                "title": "4 OSIÓWKI",
+                "title": "4-OSIÓWKI",
                 "caption": "DO 20 TON ŁADOWNOŚCI",
                 "active": false,
                 "alt": ""
@@ -428,7 +428,7 @@
             }
           },
           "text2": "W przypadku długoterminowych kontraktów istnieje możliwość negocjacji cen.<br>",
-          "text21": "<span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\"></span>Cena ustalana indywidualnie z Klientem.",
+          "text21": "<span class=\"mobi-mbri mobi-mbri-cash mbr-iconfont mbr-iconfont-btn\"></span>Cena ustalana indywidualnie z Klientem.",
           "text22": "<span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>Terminowe wykonanie usługi.",
           "text23": "<span class=\"mobi-mbri mobi-mbri-timer mbr-iconfont mbr-iconfont-btn\"></span>Krótko lub długotrwała współpraca<br>",
           "media2": {
