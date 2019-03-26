@@ -896,8 +896,8 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "0",
+            "paddingBottom": "2",
             "showTitle": false,
             "showText": false,
             "showButtons": false,
